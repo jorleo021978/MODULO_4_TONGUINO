@@ -5,4 +5,4 @@ LA REPETICION DEL MODULO VAMOS CON TODA
  # git add .
  # git commit -m "Initial commit"
  # git remote add origin <URL_del_repositorio_en_GitHub>
- # git push -u origin master
+ # git push -u origin main
